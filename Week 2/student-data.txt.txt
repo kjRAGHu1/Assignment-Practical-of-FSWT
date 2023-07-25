@@ -1,0 +1,22 @@
+[
+    {
+    "Name" : "Kushal",
+    "CGPA" : 8.74
+},
+{
+    "Name" : "Divyanshu",
+    "CGPA" : 7.88
+},
+{
+    "Name" : "Suks",
+    "CGPA" : 8.55
+},
+{
+    "Name" : "Madhav",
+    "CGPA" : 7.80
+},
+{
+    "Name" : "sagar",
+    "CGPA" : 9.99
+}
+]
